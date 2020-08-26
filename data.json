@@ -1,0 +1,79 @@
+
+ [ 
+        
+      
+        { 
+            "From":"Bangalore",
+            "To":"Ranchi",
+            "Company":"Air India",
+            "Prices":4000,
+            "Depart":"10 AM",
+            "Arrive": "1 PM",
+            "Duration":"2h 05m"
+    
+        },
+        
+        { 
+            "From":"Bangalore",
+            "To":"Ranchi",
+            "Company":"Air Asia",
+            "Prices":4500,
+            "Depart":"10 AM",
+            "Arrive": "1 PM",
+            "Duration":"2h 05m"
+    
+        },
+        { 
+            "From":"Bangalore",
+            "To":"Ranchi",
+            "Company":"IndiGo",
+            "Prices":5000,
+            "Depart":"10 AM",
+            "Arrive": "1 PM",
+            "Duration":"2h 05m"
+    
+        },
+      
+         
+      
+        { 
+            "From":"Ranchi",
+            "To":"Bangalore",
+            "Company":"Air India",
+            "Prices":4000,
+            "Depart":"10 AM",
+            "Arrive": "1 PM",
+            "Duration":"2h 05m"
+    
+        },
+        
+        { 
+            "From":"Ranchi",
+            "To":"Bangalore",
+            "Company":"Air Asia",
+            "Prices":4500,
+            "Depart":"10 AM",
+            "Arrive": "1 PM",
+            "Duration":"2h 05m"
+    
+        },
+        { 
+            "From":"Ranchi",
+            "To":"Bangalore",
+            "Company":"IndiGo",
+            "Prices":5000,
+            "Depart":"10 AM",
+            "Arrive": "1 PM",
+            "Duration":"2h 05m"
+    
+        }
+      
+      
+       
+
+       
+        
+ 
+
+    ]
+
