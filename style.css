@@ -1,0 +1,81 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+.main-content{
+  
+  margin: 2% 15% 0% 15%;
+  
+}
+.search-content{
+  border: 2px solid black;
+  
+}
+.search-heading{
+ 
+  border-bottom: 2px solid blue;
+  padding: 10px;
+  
+}
+.grid{
+  display: grid;
+  height: 500px;
+  grid-template-columns: 25% 75%;
+
+}
+.search-div{
+  border-right: 2px solid red;
+  
+  
+}/*
+.grid-item{
+  padding: 10px;
+}*/
+.depart-return-day{
+ padding: 10px;
+    display: grid;
+    grid-template-columns: 70% 30%;
+    border-bottom: 2px solid black;
+  
+
+}
+
+/**show points***/
+
+.show-point{
+  display: grid;
+  grid-template-columns:auto auto auto auto auto;
+}
+
+/**** fetch data*****/
+.data-fetch{
+  padding: 15px;
+}
+.result-data{
+  
+  padding: 5px;
+  margin-bottom: 10px;
+  
+}
+
+/***********/
+
+.details {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  
+}
+.details div{
+  border: 1px solid yellow;
+}
+
+
+.search-box{
+ 
+  padding: 10px;
+}
+.search-box input{
+  margin-bottom: 10px;
+  width: 100%;
+}
