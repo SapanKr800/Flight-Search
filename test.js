@@ -28,7 +28,7 @@ for(i=0;i<data.length;i++){
   }
     /*************************** */
  else if((data[i].From== To) && (data[i].To==From ) && (DepartDate !== "")&& (ReturnDate !== "")){
-  console.log("helllooooo")
+  
  
   result +=`
   
@@ -65,7 +65,7 @@ for(i=0;i<data.length;i++){
 
 function flight(){
 
-fetch("js.json")
+fetch("data.json")
 .then(res => res.json())
 .then(data => {
  
